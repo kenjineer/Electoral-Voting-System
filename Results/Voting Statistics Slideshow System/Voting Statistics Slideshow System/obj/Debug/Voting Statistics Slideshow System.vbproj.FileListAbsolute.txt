@@ -1,0 +1,73 @@
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+c:\users\demo-pc\documents\visual studio 2013\Projects\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+C:\Users\User\Documents\Voting System 2017\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+C:\Users\Demo-PC\Desktop\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+C:\Users\User\Documents\Voting System 2017 v1.2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbprojResolveAssemblyReference.cache
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+C:\Users\Kenneth Karamihan\Desktop\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbprojResolveAssemblyReference.cache
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe.config
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.exe
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.pdb
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\bin\Debug\Voting Statistics Slideshow System.xml
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbprojResolveAssemblyReference.cache
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.formStatistics.resources
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting_Statistics_Slideshow_System.Resources.resources
+C:\Users\Kenneth Karamihan\Desktop\New folder\Voting System2\Results\Voting Statistics Slideshow System\Voting Statistics Slideshow System\obj\Debug\Voting Statistics Slideshow System.vbproj.GenerateResource.Cache
